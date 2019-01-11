@@ -1,6 +1,6 @@
 # Replace Air Filter
  
-First, see the files in /media
+First, see the files in [media folder](https://github.com/TheLab-ms/facilities/tree/master/media)
 
 Make sure to bring with you:
 * Flathead screw driver
